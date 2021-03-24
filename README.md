@@ -1,1 +1,1 @@
-Course files for the SaltStack Certified Administrator (pending)
+Course files for Introduction to Salt Project (pending)
